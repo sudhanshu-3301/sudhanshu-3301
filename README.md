@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cyber Security Projects**
 
-- 🌱 I’m currently learning **Data Structure,HTML CSS and Java Script**
+- 🌱 I’m currently learning **Cybersecurity Fundamentals, Networking, Web Security (OWASP), Python for Security, Ethical Hacking (Kali Linux, Burp Suite), SIEM (Splunk), and Cloud Security**
 
 - 👨‍💻 All of my projects are available Here.
 
