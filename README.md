@@ -1,13 +1,13 @@
 ![MasterHead](https://e476rzxxeua.exactdn.com/wp-content/uploads/2020/01/00086-desk-anim-v0.3.gif?strip=all&lossy=0&ssl=1)
 <h1 align="center">Hi 👋, I'm Sudhanshu Kumar</h1>
-<h3 align="center">A passionate Cyber Security Enthusiast from India..</h3>
+<h3 align="center">A passionate Software Devloper and Cyber Security Enthusiast from India..</h3>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu-3301&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu-3301" /> </p>
 
-- 🔭 I’m currently working on **Cyber Security Projects**
+- 🔭 I’m currently working on **Web and Cyber Security Projects**
 
-- 🌱 I’m currently learning **Cybersecurity Fundamentals, Networking, Web Security (OWASP), Python for Security, Ethical Hacking (Kali Linux, Burp Suite), SIEM (Splunk), and Cloud Security**
+- 🌱 I’m currently learning **Full Stack Devlopment, Cybersecurity Fundamentals, Networking, Web Security (OWASP), Python for Security, Ethical Hacking (Kali Linux, Burp Suite), SIEM (Splunk), and Cloud Security**
 
 - 👨‍💻 All of my projects are available Here.
 
